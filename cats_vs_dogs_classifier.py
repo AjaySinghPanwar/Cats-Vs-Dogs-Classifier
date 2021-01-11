@@ -1,3 +1,4 @@
+"""
 ### Cat Vs Dog Classifier
 Training an image classifier from scratch on the Kaggle Cats vs Dogs dataset.
 
